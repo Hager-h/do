@@ -4,7 +4,7 @@ function Header() {
   return (
 
 <div className="header">
-<h1><span>🧾</span>  house needs <span>📢</span> </h1>
+<h1> house needs <span>🧾</span> </h1>
 
 
 </div>
